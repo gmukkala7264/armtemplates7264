@@ -1,0 +1,14 @@
+apiVersion: azconfig.io/v1
+kind: AzureAppConfigurationProvider
+metadata:
+  name: appconfigurationprovider-sample
+spec:
+  endpoint: https://jbappconfigstore.azconfig.io
+  target:
+    configMapName: configmap-created-by-appconfig-provider
+    configMapData: 
+      type: json
+      key: mysettings.json
+  auth:
+    workloadIdentity:
+      managedIdentityClientId: fa650a5a-be1c-4f69-9e52-c841451372eb

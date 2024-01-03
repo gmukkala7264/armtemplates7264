@@ -1,0 +1,8 @@
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\MyWebApp.exe
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\appsettings.Development.json
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\appsettings.json
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\mysettings.json
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\MyWebApp.dll
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\MyWebApp.deps.json
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\MyWebApp.runtimeconfig.json
+C:\Users\gmukkala\MyWebApp\MyWebApp\published\MyWebApp.pdb
